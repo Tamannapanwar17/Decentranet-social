@@ -37,7 +37,7 @@ DecentraNet/
 │   ├── utils/
 │   └── App.jsx               # Main application logic
 ├── docs/                     # Documentation and diagrams
-│   └── walkthrough-script.md# Optional walkthrough script
+│   └── walkthrough-script.md # Optional walkthrough script
 ├── README.md                 # You're here!
 ```
 
@@ -88,11 +88,11 @@ Want to record a demo video? Here’s a basic script:
 ## 🎥 Live Demo
 
 - 🔗 **Frontend**: [https://decentranet.vercel.app](https://decentranet.vercel.app)
-- 📺 **Walkthrough Video**: *Coming soon…*
+- 📺 **Walkthrough Video**: [Watch on Loom](https://loom.com/share/your-video-link)
 
-> ![Watch Demo](https://placehold.co/800x450?text=DecentraNet+Demo+Video&font=roboto&size=36)
+[![Watch Demo](https://placehold.co/800x450?text=DecentraNet+Demo+Video&font=roboto&size=36)](https://loom.com/share/your-video-link)
 
-Click the image above once you’ve recorded your walkthrough using Loom, YouTube, or OBS. Replace the placeholder link and image when ready.
+> 🔧 Replace the placeholder link and image above with your actual video once it's ready.
 
 ---
 
