@@ -73,7 +73,7 @@ npx hardhat run scripts/deploy.js --network polygonMumbai
 ## 🧪 Demo
 
 - 🔗 [Live Frontend Demo](https://decentranet.vercel.app)
-- 📺 [Walkthrough Video](https://loom.com/your-demo-link)
+- 📺 [Walkthrough Video](https://www.loom.com/share/abcd1234efgh5678)
 - 📄 [System Diagram](./docs/architecture.png)
 
 ---
