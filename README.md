@@ -36,9 +36,7 @@ DecentraNet/
 │   ├── pages/
 │   ├── utils/
 │   └── App.jsx               # Main application logic
-├── docs/
-│   └── architecture.png      # System architecture diagram
-└── README.md                 # You're here!
+├── README.md                 # You're here!
 ```
 
 ---
@@ -73,8 +71,7 @@ npx hardhat run scripts/deploy.js --network polygonMumbai
 ## 🧪 Demo
 
 - 🔗 [Live Frontend Demo](https://decentranet.vercel.app)
-- 📺 [Walkthrough Video](https://www.loom.com/share/abcd1234efgh5678)
-- 📄 [System Diagram](./docs/architecture.png)
+- 📺 *Walkthrough Video coming soon...*
 
 ---
 
@@ -92,9 +89,3 @@ function createPost(string calldata contentURI) external {
 
 ## 🧑‍💻 Contributing
 PRs welcome! Please fork this repo and raise a pull request. For major changes, please open an issue first.
-
----
-
-## 📜 License
-MIT © 2025 – Built for ETHGlobal, HackFS, or your favorite Web3 hackathon 🚀
-
