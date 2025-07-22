@@ -88,16 +88,6 @@ Want to record a demo video? Here’s a basic script:
 ## 🎥 Live Demo
 
 - 🔗 **Frontend**: [https://decentranet.vercel.app](https://decentranet.vercel.app)
-- 📺 **Walkthrough Video**: [Watch on Loom](https://loom.com/share/your-video-link)
-
-<p align="center">
-  <a href="https://loom.com/share/your-video-link">
-    <img src="https://placehold.co/800x450?text=DecentraNet+Demo+Video&font=roboto&size=36" alt="Watch Demo" />
-  </a>
-</p>
-
-> 🔧 Replace the placeholder link and image above with your actual video once it's ready.
-
 ---
 
 ## 🛠 Smart Contract Example
